@@ -1,0 +1,39 @@
+name: expense_tracker
+description: A personal expense tracking app with categories, stats, and charts.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^3.6.0
+  cloud_firestore: ^5.4.4
+  firebase_auth: ^5.3.1
+
+  # Charts
+  fl_chart: ^0.68.0
+
+  # Date formatting
+  intl: ^0.19.0
+
+  # HTTP for cat memes
+  http: ^1.2.2
+
+  # Cached network images
+  cached_network_image: ^3.4.1
+
+  # Icons
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
