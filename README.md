@@ -33,9 +33,10 @@ This app helps users manage their daily expenses, visualize spending habits, and
 *(Add your app screenshots here)*
 
 Example:
-![Home Screen](screenshots/home.png)
-![Add Expense](screenshots/add.png)
-![Statistics](screenshots/stats.png)
+## 📸 Screenshots
+![Home Screen](screenshots/homepage.png)  
+![Record Page](screenshots/recordpage.png)  
+![Summary Page](screenshots/summarypage.png)
 
 ---
 
